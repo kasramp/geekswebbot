@@ -14,9 +14,9 @@ The working version of this bot program is deployed for [blog.madadipouya.com](b
 
 List of available commands for this bot are,
 	
-	- ````/help```` Shows list of available commands
-	- ````/email```` Get email address of the blog owner
-	- ````/latest```` Displays the latest of the blog
+- ````/help```` Shows list of available commands
+- ````/email```` Get email address of the blog owner
+- ````/latest```` Displays the latest of the blog
 
 ##Dependencies
 The program works out the box so smoothly and all necessary dependencies have been already added to the project.
