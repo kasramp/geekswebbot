@@ -7,7 +7,7 @@ GeeksWeb Bot is a simplified and lightweight version of [Jadibot by Jaavid](http
 The use of this bot application is not difficult, you just need to copy/paste the content to your HeroKu application and commit the code, however, before that you are required to set your website/blog RSS feed as well as access token. In order to do so, just change the following values in index.php file,
 
 	$client = new Zelenin\Telegram\Bot\Api('AccessToken');
-	$url = 'Your website RSS feeed';
+	$url = 'Your website RSS feed';
 
 ##Usage 
 The working version of this bot program is deployed for [blog.madadipouya.com](blog.madadipouya.com) AKA WeeksWeb on HeroKu. Click on  [telegram.me/GeeksWebBot](telegram.me/GeeksWebBot) link to start interaction with the bot.
