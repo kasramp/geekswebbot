@@ -23,9 +23,9 @@ The program works out the box so smoothly and all necessary dependencies have be
 You just need to run it in your server. It is highly recommended to run "composer update" command before deploying your application in order to update all dependencies
 
 ## Screenshot
-<div style="text-align:center">
-<img src="http://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" style="width: 200px;height:100px"/>
-</div>
+<p align="center">
+<img src="http://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" height="300" width="400"/>
+</p>
 ## Contact
 * kasra@madadipouya.com
 * kasra_mp@live.com
