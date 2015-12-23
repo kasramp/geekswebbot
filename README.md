@@ -2,7 +2,7 @@
 Create bot for your website or blog easily with GeeksWebBot (GWB).
 
 ##Description
-GeeksWeb Bot is a simplified and lightweight version of [Jadibot by Jaavid](https://github.com/jaavid/jadibot/) Telegram bot. It is designed to be easily launched on HeroKu cloud application platform. In this bot, the database portion and other complicated parts of Jadibot have been removed to make it easy to configure of cloud application platform and easy to configure.
+GeeksWeb Bot is a simplified and lightweight version of [Jadibot by Jaavid](https://github.com/jaavid/jadibot/) Telegram bot. It is designed to be easy to launch on HeroKu cloud application platform. In this bot, the database portion and other complicated parts of Jadibot have been removed to make it easy to configure on cloud application platforms.
 
 The use of this bot application is not difficult, you just need to copy/paste the content to your HeroKu application and commit the code, however, before that you are required to set your website/blog RSS feed as well as access token. In order to do so, just change the following values in index.php file,
 
@@ -26,6 +26,11 @@ You just need to run it in your server. It is highly recommended to run "compose
 <p align="center">
 <img src="http://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" height="300" width="400"/>
 </p>
+
+## Useful link
+If you do not know how to setup a telegram bot, I recommend you to have a look on the following link
+[http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/] (http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
+
 ## Contact
 * kasra@madadipouya.com
 * kasra_mp@live.com
