@@ -14,7 +14,7 @@
 *
 * Author(s):
 *
-* © 2015 Kasra Madadipouya <kasra@madadipouya.com>
+* © 2015-2018 Kasra Madadipouya <kasra@madadipouya.com>
 *
 */
 require 'vendor/autoload.php';
