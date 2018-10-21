@@ -10,7 +10,7 @@ The use of this bot application is not difficult, you just need to copy/paste th
 	$url = 'Your website RSS feed';
 
 ## Usage 
-The working version of this bot program is deployed for [blog.madadipouya.com](blog.madadipouya.com) AKA WeeksWeb on HeroKu. Click on  [telegram.me/GeeksWebBot](telegram.me/GeeksWebBot) link to start interaction with the bot.
+The working version of this bot program is deployed for [blog.madadipouya.com](https://blog.madadipouya.com) AKA WeeksWeb on HeroKu. Click on  [telegram.me/GeeksWebBot](https://telegram.me/GeeksWebBot) link to start interaction with the bot.
 
 List of available commands for this bot are,
 	
@@ -24,13 +24,13 @@ You just need to run it in your server. It is highly recommended to run "compose
 
 ## Screenshot
 <p align="center">
-<img src="http://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" height="300" width="400"/>
+<img src="https://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" height="300" width="400"/>
 </p>
 
 ## Useful resources
 If you do not know how to setup a telegram bot, I recommend you to have a look on the following link:
 
-[http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
+[http://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
 
 ## Contact
 * kasra@madadipouya.com
