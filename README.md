@@ -24,10 +24,11 @@ You just need to run it in your server. It is highly recommended to run "compose
 
 ## Screenshot
 <p align="center">
-<img src="https://blog.madadipouya.com/wp-content/uploads/2014/07/screenshot-web-telegram-org-2015-10-04-03-48-33.png" alt="Drawing" height="300" width="400"/>
+<img src="https://user-images.githubusercontent.com/4501120/47316095-958e8400-d646-11e8-88ed-217ad4b05826.png" alt="Drawing" height="300" width="400"/>
 </p>
 
 ## Useful resources
+
 If you do not know how to setup a telegram bot, I recommend you to have a look on the following link:
 
 [https://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
