@@ -35,7 +35,6 @@ If you do not know how to setup a telegram bot, I recommend you to have a look o
 
 ## Contact
 * kasra@madadipouya.com
-* kasra_mp@live.com
 
 ## License
 GeeksWeb Bot (GWB) is free software; you can redistribute it and/or modify
