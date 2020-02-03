@@ -31,7 +31,7 @@ You just need to run it in your server. It is highly recommended to run "compose
 
 If you do not know how to setup a telegram bot, I recommend you to have a look on the following link:
 
-[https://geekyhacker/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://geekyhacker/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
+[https://geekyhacker.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://geekyhacker.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
 
 ## Contact
 * kasra@madadipouya.com
