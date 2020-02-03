@@ -10,7 +10,7 @@ The use of this bot application is not difficult, you just need to copy/paste th
 	$url = 'Your website RSS feed';
 
 ## Usage 
-The working version of this bot program is deployed for [blog.madadipouya.com](https://blog.madadipouya.com) AKA WeeksWeb on HeroKu. Click on  [telegram.me/GeeksWebBot](https://telegram.me/GeeksWebBot) link to start interaction with the bot.
+The working version of this bot program is deployed for [Geeky Hacker](https://geekyhacker.com) on HeroKu. Click on  [telegram.me/GeeksWebBot](https://telegram.me/GeeksWebBot) link to start interaction with the bot.
 
 List of available commands for this bot are,
 	
@@ -31,7 +31,7 @@ You just need to run it in your server. It is highly recommended to run "compose
 
 If you do not know how to setup a telegram bot, I recommend you to have a look on the following link:
 
-[https://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://blog.madadipouya.com/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
+[https://geekyhacker/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/](https://geekyhacker/2015/10/04/how-to-create-telegram-bot-with-php-and-host-in-heroku/)
 
 ## Contact
 * kasra@madadipouya.com
@@ -48,4 +48,4 @@ GNU General Public License for more details.  <http://www.gnu.org/licenses/>
 
 Author(s):
 
-© 2015-2018 Kasra Madadipouya <kasra@madadipouya.com>
+© 2015-2020 Kasra Madadipouya <kasra@madadipouya.com>
